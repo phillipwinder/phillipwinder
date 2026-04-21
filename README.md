@@ -1,3 +1,3 @@
-Experienced full-stack software engineer with experience building, leading and owning enterprise web applications from frontend to backend to deployment.
+Tech lead with experience building and owning enterprise web applications across the full product and technology lifecycle.
 
 [Tokens don't buy taste.](https://tokensdontbuytaste.com/)
